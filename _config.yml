@@ -10,34 +10,34 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "Conference Site Test"
+email: "tinomuzambi@gmail.com"
+description: "Just testing out the conference site."
+baseurl: "/"
+url: "https://tinomuzambi.github.io/ConfSite/"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+siteVerification: ""
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "Tino Muzambi"
+organizerAlternateName: "Tino Muzambi"
+organizerDescription: "Testing 123"
+organizerEmail: "tino@tinomuzambi.com"
+organizerLogo: "https://www.tinotech.co.za/media/TinoTech%20Dark%20Blue%20Text.png"
+organizerLink: "https://tinomuzambi.com"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+metaKeywords: "test, tinomuzambi"
+twitterAccount: "@TinoMuzambi"
+socialImageSrcGooglePlus: ""
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: ""
+c4sponsorsUrl: ""
 
 
 # Navigation
@@ -49,15 +49,15 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# bottomNavigationLinks:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# rightNavigationButtons:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
+heroTitle: "Testing 1 2"
+eventDate: "September - November, 2023"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
